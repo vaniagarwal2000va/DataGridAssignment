@@ -1,6 +1,6 @@
 import React from 'react'
 import Checkbox from '../common/Checkbox'
-import '../styles/Header.css'
+import '../../styles/Header.css'
 
 const Header = ( {data, selectedRows, onSelectionChange}) => {
     const isAllRowSelected = selectedRows.length === data.length;
