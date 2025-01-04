@@ -1,0 +1,12 @@
+.download-button{
+    border: none;
+    background-color: white;
+ }
+ .download-arrow-icon{
+   margin-right: 5px;
+ }
+ .header-wrapper{
+    display: flex;
+    gap: 15px;
+    padding: 10px;
+ }
