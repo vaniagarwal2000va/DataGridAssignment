@@ -3,7 +3,7 @@
 
 ## Run Locally
 ```bash
-  git clone 
+  git clone https://github.com/vaniagarwal2000va/DataGridAssignment.git
 ```
 
 Install dependencies
